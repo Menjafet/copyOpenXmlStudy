@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
+        "projectName": "OpenxmlStudy",
+        "projectPath": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
+        "packagesPath": "C:\\Users\\jaftb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaftb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DocumentFormat.OpenXmlSDK": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

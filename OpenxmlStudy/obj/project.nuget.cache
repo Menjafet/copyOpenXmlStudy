@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvzFd0AFnii4L+hCSQp/QglwJFt0NKkMrYraPa8JPd4J6TJmjyCGtUIN9Ok9DSmFqH+mph5NdEbUJVa4h10Few==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaftb\\.nuget\\packages\\documentformat.openxmlsdk\\2.0.0\\documentformat.openxmlsdk.2.0.0.nupkg.sha512",
+    "C:\\Users\\jaftb\\.nuget\\packages\\system.io.packaging\\7.0.0\\system.io.packaging.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DocumentFormat.OpenXmlSDK 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DocumentFormat.OpenXmlSDK",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
