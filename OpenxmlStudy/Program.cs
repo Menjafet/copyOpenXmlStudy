@@ -25,10 +25,10 @@ internal class Program
     {
         Console.WriteLine("Hello, World!");
 
-        string document2 = @"C:\Users\jaftb\OneDrive\Escritorio\test\Word10.docx";
+        string document = @"C:\Users\jaftb\OneDrive\Escritorio\test\Word10.docx";
 
-        string fileName = @"https://cdn.discordapp.com/attachments/458291463663386646/592779619212460054/Screenshot_20190624-201411.jpg?query&with.dots";
-        DocManipulation.InsertAPicture(document2, fileName);
+        string url = @"https://cdn.discordapp.com/attachments/458291463663386646/592779619212460054/Screenshot_20190624-201411.jpg?query&with.dots";
+        DocManipulation.InsertAPicture(document, url);
         //Stream result = await DocManipulation.DownloadImageAsync(new Uri(fileName));
 
     }

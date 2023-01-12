@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
+      "projectUniqueName": "C:\\Users\\jaftb\\Documents\\copyOpenXmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
       "projectName": "OpenxmlStudy",
-      "projectPath": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
+      "projectPath": "C:\\Users\\jaftb\\Documents\\copyOpenXmlStudy\\OpenxmlStudy\\OpenxmlStudy.csproj",
       "packagesPath": "C:\\Users\\jaftb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaftb\\Documents\\OpenxmlStudy\\OpenxmlStudy\\obj\\",
+      "outputPath": "C:\\Users\\jaftb\\Documents\\copyOpenXmlStudy\\OpenxmlStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaftb\\AppData\\Roaming\\NuGet\\NuGet.Config",
